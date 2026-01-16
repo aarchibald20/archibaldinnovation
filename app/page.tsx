@@ -54,7 +54,7 @@ export default function Home() {
       {/* Services */}
       <section className="px-6 py-20 bg-gray-50">
         <div className="max-w-6xl mx-auto">
-          <h2 className="text-3xl font-semibold text-center">What I Do</h2>
+          <h2 className="text-3xl font-semibold text-center">What We Do</h2>
           <div className="grid md:grid-cols-3 gap-6 mt-12">
             <Card className="rounded-2xl shadow-sm">
               <CardContent className="p-6">
